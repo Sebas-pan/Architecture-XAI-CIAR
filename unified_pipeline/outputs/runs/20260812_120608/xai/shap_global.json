@@ -1,0 +1,122 @@
+[
+  {
+    "feature": "worst area",
+    "mean_abs_shap": 0.06871630862703679
+  },
+  {
+    "feature": "worst perimeter",
+    "mean_abs_shap": 0.0671036931256885
+  },
+  {
+    "feature": "worst concave points",
+    "mean_abs_shap": 0.055455308471006284
+  },
+  {
+    "feature": "worst radius",
+    "mean_abs_shap": 0.044824672458425543
+  },
+  {
+    "feature": "mean concave points",
+    "mean_abs_shap": 0.03417290172509695
+  },
+  {
+    "feature": "mean radius",
+    "mean_abs_shap": 0.029336658948108277
+  },
+  {
+    "feature": "mean area",
+    "mean_abs_shap": 0.023297304247314996
+  },
+  {
+    "feature": "mean concavity",
+    "mean_abs_shap": 0.02138685880199114
+  },
+  {
+    "feature": "mean perimeter",
+    "mean_abs_shap": 0.021031490083604495
+  },
+  {
+    "feature": "worst concavity",
+    "mean_abs_shap": 0.020301224761107444
+  },
+  {
+    "feature": "area error",
+    "mean_abs_shap": 0.01585451587409938
+  },
+  {
+    "feature": "worst texture",
+    "mean_abs_shap": 0.013220046117698347
+  },
+  {
+    "feature": "worst smoothness",
+    "mean_abs_shap": 0.010022769691507652
+  },
+  {
+    "feature": "radius error",
+    "mean_abs_shap": 0.008140188419324455
+  },
+  {
+    "feature": "worst compactness",
+    "mean_abs_shap": 0.008041816014668546
+  },
+  {
+    "feature": "mean texture",
+    "mean_abs_shap": 0.007041330816223744
+  },
+  {
+    "feature": "worst symmetry",
+    "mean_abs_shap": 0.005752191541115102
+  },
+  {
+    "feature": "mean compactness",
+    "mean_abs_shap": 0.00557166461436519
+  },
+  {
+    "feature": "perimeter error",
+    "mean_abs_shap": 0.004381152069630383
+  },
+  {
+    "feature": "mean smoothness",
+    "mean_abs_shap": 0.004087975889214029
+  },
+  {
+    "feature": "worst fractal dimension",
+    "mean_abs_shap": 0.002998705518138405
+  },
+  {
+    "feature": "compactness error",
+    "mean_abs_shap": 0.0024048656207410774
+  },
+  {
+    "feature": "smoothness error",
+    "mean_abs_shap": 0.002360541302457947
+  },
+  {
+    "feature": "texture error",
+    "mean_abs_shap": 0.0017710794473019035
+  },
+  {
+    "feature": "concavity error",
+    "mean_abs_shap": 0.0016397602269219904
+  },
+  {
+    "feature": "symmetry error",
+    "mean_abs_shap": 0.0016057046099602755
+  },
+  {
+    "feature": "concave points error",
+    "mean_abs_shap": 0.001529318389486876
+  },
+  {
+    "feature": "fractal dimension error",
+    "mean_abs_shap": 0.0013145117689480374
+  },
+  {
+    "feature": "mean symmetry",
+    "mean_abs_shap": 0.001199397199906026
+  },
+  {
+    "feature": "mean fractal dimension",
+    "mean_abs_shap": 0.0006190307985838497
+  }
+]
