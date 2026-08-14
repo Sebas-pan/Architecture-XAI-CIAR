@@ -1,0 +1,9 @@
+names:
+- Cat
+- Dog
+nc: 2
+path: C:\Users\I13310\Desktop\Proyecto\unified_pipeline\data\CatsDogs_YOLO11
+test: C:\Users\I13310\Desktop\Proyecto\unified_pipeline\data\CatsDogs_YOLO11\test\images
+train: C:\Users\I13310\Desktop\Proyecto\unified_pipeline\data\CatsDogs_YOLO11\train\images
+val: C:\Users\I13310\Desktop\Proyecto\unified_pipeline\data\CatsDogs_YOLO11\valid\images
+valid: C:\Users\I13310\Desktop\Proyecto\unified_pipeline\data\CatsDogs_YOLO11\valid\images

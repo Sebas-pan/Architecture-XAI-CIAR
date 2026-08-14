@@ -1,0 +1,39 @@
+{
+  "splits": {
+    "train": {
+      "images": 457,
+      "labels": 457
+    },
+    "valid": {
+      "images": 132,
+      "labels": 132
+    },
+    "test": {
+      "images": 64,
+      "labels": 64
+    }
+  },
+  "class_counts_per_split": {
+    "train": {
+      "Cat": 295,
+      "Dog": 275
+    },
+    "valid": {
+      "Cat": 114,
+      "Dog": 104
+    },
+    "test": {
+      "Cat": 30,
+      "Dog": 51
+    }
+  },
+  "image_size_stats": {
+    "count": 200,
+    "min_w": 169,
+    "max_w": 4272,
+    "min_h": 133,
+    "max_h": 4272,
+    "mean_w": 923.0,
+    "mean_h": 621.8
+  }
+}

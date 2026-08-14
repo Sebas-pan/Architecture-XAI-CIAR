@@ -1,0 +1,69 @@
+[
+  {
+    "image": "C:\\Users\\I13310\\Desktop\\Proyecto\\unified_pipeline\\data\\CatsDogs_YOLO11\\test\\images\\cat_111_jpg.rf.XSCmTLQPKBr7ZNZzXhm0.jpg",
+    "detections": [],
+    "annotated": "C:\\Users\\I13310\\Desktop\\Proyecto\\unified_pipeline\\outputs\\runs\\20260813_114601\\predictions\\cat_111_jpg.rf.XSCmTLQPKBr7ZNZzXhm0_pred.jpg"
+  },
+  {
+    "image": "C:\\Users\\I13310\\Desktop\\Proyecto\\unified_pipeline\\data\\CatsDogs_YOLO11\\test\\images\\cat_14_jpg.rf.2aEiCGe3AlOrkQg6hHz8.jpg",
+    "detections": [
+      {
+        "class": 0,
+        "class_name": "Cat",
+        "confidence": 0.9128,
+        "bbox_xyxy": [
+          322.7,
+          10.1,
+          665.3,
+          350.1
+        ]
+      }
+    ],
+    "annotated": "C:\\Users\\I13310\\Desktop\\Proyecto\\unified_pipeline\\outputs\\runs\\20260813_114601\\predictions\\cat_14_jpg.rf.2aEiCGe3AlOrkQg6hHz8_pred.jpg"
+  },
+  {
+    "image": "C:\\Users\\I13310\\Desktop\\Proyecto\\unified_pipeline\\data\\CatsDogs_YOLO11\\test\\images\\cat_170_jpg.rf.rgEfrCyIhPrJGznb5SJ8.jpg",
+    "detections": [
+      {
+        "class": 0,
+        "class_name": "Cat",
+        "confidence": 0.9514,
+        "bbox_xyxy": [
+          312.8,
+          23.6,
+          960.5,
+          700.6
+        ]
+      }
+    ],
+    "annotated": "C:\\Users\\I13310\\Desktop\\Proyecto\\unified_pipeline\\outputs\\runs\\20260813_114601\\predictions\\cat_170_jpg.rf.rgEfrCyIhPrJGznb5SJ8_pred.jpg"
+  },
+  {
+    "image": "C:\\Users\\I13310\\Desktop\\Proyecto\\unified_pipeline\\data\\CatsDogs_YOLO11\\test\\images\\cat_208_jpg.rf.lXeTKCfgfVEp2CUm37CX.jpg",
+    "detections": [
+      {
+        "class": 0,
+        "class_name": "Cat",
+        "confidence": 0.8977,
+        "bbox_xyxy": [
+          40.9,
+          2.2,
+          241.7,
+          217.1
+        ]
+      },
+      {
+        "class": 1,
+        "class_name": "Dog",
+        "confidence": 0.4152,
+        "bbox_xyxy": [
+          328.7,
+          79.9,
+          422.4,
+          177.3
+        ]
+      }
+    ],
+    "annotated": "C:\\Users\\I13310\\Desktop\\Proyecto\\unified_pipeline\\outputs\\runs\\20260813_114601\\predictions\\cat_208_jpg.rf.lXeTKCfgfVEp2CUm37CX_pred.jpg"
+  }
+]

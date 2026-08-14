@@ -1,0 +1,37 @@
+{
+  "mode": "max_detection",
+  "instances": [
+    {
+      "image": "C:\\Users\\I13310\\Desktop\\Proyecto\\unified_pipeline\\data\\CatsDogs_YOLO11\\test\\images\\cat_111_jpg.rf.XSCmTLQPKBr7ZNZzXhm0.jpg",
+      "target_class": 0,
+      "class_name": "Cat",
+      "detections": 0,
+      "png": "gradcam_cat_111_jpg.rf.XSCmTLQPKBr7ZNZzXhm0.png",
+      "npy": "gradcam_cat_111_jpg.rf.XSCmTLQPKBr7ZNZzXhm0.npy"
+    },
+    {
+      "image": "C:\\Users\\I13310\\Desktop\\Proyecto\\unified_pipeline\\data\\CatsDogs_YOLO11\\test\\images\\cat_14_jpg.rf.2aEiCGe3AlOrkQg6hHz8.jpg",
+      "target_class": 0,
+      "class_name": "Cat",
+      "detections": 1,
+      "png": "gradcam_cat_14_jpg.rf.2aEiCGe3AlOrkQg6hHz8.png",
+      "npy": "gradcam_cat_14_jpg.rf.2aEiCGe3AlOrkQg6hHz8.npy"
+    },
+    {
+      "image": "C:\\Users\\I13310\\Desktop\\Proyecto\\unified_pipeline\\data\\CatsDogs_YOLO11\\test\\images\\cat_170_jpg.rf.rgEfrCyIhPrJGznb5SJ8.jpg",
+      "target_class": 0,
+      "class_name": "Cat",
+      "detections": 1,
+      "png": "gradcam_cat_170_jpg.rf.rgEfrCyIhPrJGznb5SJ8.png",
+      "npy": "gradcam_cat_170_jpg.rf.rgEfrCyIhPrJGznb5SJ8.npy"
+    },
+    {
+      "image": "C:\\Users\\I13310\\Desktop\\Proyecto\\unified_pipeline\\data\\CatsDogs_YOLO11\\test\\images\\cat_208_jpg.rf.lXeTKCfgfVEp2CUm37CX.jpg",
+      "target_class": 0,
+      "class_name": "Cat",
+      "detections": 2,
+      "png": "gradcam_cat_208_jpg.rf.lXeTKCfgfVEp2CUm37CX.png",
+      "npy": "gradcam_cat_208_jpg.rf.lXeTKCfgfVEp2CUm37CX.npy"
+    }
+  ]
+}
