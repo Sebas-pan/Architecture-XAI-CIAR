@@ -1,0 +1,37 @@
+# Instancia explicativa
+
+## Muestra (index 1226)
+- True: 214000.0 | Pred: 204239.22
+- Top SHAP:
+    - GrLivArea -> 22304.5472
+    - OverallQual -> -19440.0835
+    - BsmtFinSF1 -> -5622.5012
+    - GarageFinish_Unf -> 4308.1204
+    - LotArea -> 3770.1511
+    - GarageCars -> 3623.0264
+    - YearBuilt -> 3198.8695
+    - 2ndFlrSF -> 3194.1046
+
+## Muestra (index 44)
+- True: 141000.0 | Pred: 137670.875
+- Top SHAP:
+    - OverallQual -> -27398.3005
+    - GrLivArea -> -11887.6141
+    - TotalBsmtSF -> 5611.1027
+    - GarageCars -> -2729.0972
+    - GarageFinish_Unf -> 2305.5902
+    - BsmtFinSF1 -> -2280.1959
+    - GarageArea -> -1986.9276
+    - YearRemodAdd -> -1780.4998
+
+## Muestra (index 179)
+- True: 100000.0 | Pred: 122216.07
+- Top SHAP:
+    - OverallQual -> -28448.8215
+    - GrLivArea -> -14113.9907
+    - YearBuilt -> -4393.4368
+    - BsmtFinSF1 -> -3828.1520
+    - YearRemodAdd -> 2548.5773
+    - GarageFinish_Unf -> -1732.1455
+    - 1stFlrSF -> -1501.1966
+    - Fireplaces -> -1255.0649

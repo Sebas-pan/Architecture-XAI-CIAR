@@ -1,0 +1,1130 @@
+[
+  {
+    "feature": "OverallQual",
+    "mean_abs_shap": 33484.790438678894
+  },
+  {
+    "feature": "GrLivArea",
+    "mean_abs_shap": 15593.72788992522
+  },
+  {
+    "feature": "TotalBsmtSF",
+    "mean_abs_shap": 4839.147064832166
+  },
+  {
+    "feature": "BsmtFinSF1",
+    "mean_abs_shap": 3860.298661310037
+  },
+  {
+    "feature": "GarageArea",
+    "mean_abs_shap": 2686.6839297855895
+  },
+  {
+    "feature": "GarageFinish_Unf",
+    "mean_abs_shap": 2423.0895334635998
+  },
+  {
+    "feature": "GarageCars",
+    "mean_abs_shap": 2358.9125856071205
+  },
+  {
+    "feature": "1stFlrSF",
+    "mean_abs_shap": 2239.447041811001
+  },
+  {
+    "feature": "LotArea",
+    "mean_abs_shap": 2139.0337473921795
+  },
+  {
+    "feature": "YearBuilt",
+    "mean_abs_shap": 2049.3742700576113
+  },
+  {
+    "feature": "2ndFlrSF",
+    "mean_abs_shap": 1590.0494567888204
+  },
+  {
+    "feature": "YearRemodAdd",
+    "mean_abs_shap": 1541.0585276803267
+  },
+  {
+    "feature": "Fireplaces",
+    "mean_abs_shap": 1411.6060656361494
+  },
+  {
+    "feature": "BsmtQual_Ex",
+    "mean_abs_shap": 1251.5217564535928
+  },
+  {
+    "feature": "OverallCond",
+    "mean_abs_shap": 881.9576930789718
+  },
+  {
+    "feature": "GarageYrBlt",
+    "mean_abs_shap": 667.8830564494003
+  },
+  {
+    "feature": "OpenPorchSF",
+    "mean_abs_shap": 588.0417407499793
+  },
+  {
+    "feature": "LotFrontage",
+    "mean_abs_shap": 476.99656506157794
+  },
+  {
+    "feature": "MSSubClass",
+    "mean_abs_shap": 472.4604789772969
+  },
+  {
+    "feature": "LotShape_Reg",
+    "mean_abs_shap": 448.70573563563784
+  },
+  {
+    "feature": "GarageType_Detchd",
+    "mean_abs_shap": 393.73306182829174
+  },
+  {
+    "feature": "FullBath",
+    "mean_abs_shap": 383.6190155104417
+  },
+  {
+    "feature": "MasVnrArea",
+    "mean_abs_shap": 375.22938110958813
+  },
+  {
+    "feature": "WoodDeckSF",
+    "mean_abs_shap": 361.0065014457832
+  },
+  {
+    "feature": "CentralAir_N",
+    "mean_abs_shap": 355.8571214852868
+  },
+  {
+    "feature": "KitchenQual_Gd",
+    "mean_abs_shap": 349.96336849458515
+  },
+  {
+    "feature": "BsmtUnfSF",
+    "mean_abs_shap": 345.41695383403584
+  },
+  {
+    "feature": "CentralAir_Y",
+    "mean_abs_shap": 336.989792581158
+  },
+  {
+    "feature": "TotRmsAbvGrd",
+    "mean_abs_shap": 333.55712014300735
+  },
+  {
+    "feature": "BsmtFullBath",
+    "mean_abs_shap": 299.8572633555521
+  },
+  {
+    "feature": "BsmtExposure_No",
+    "mean_abs_shap": 285.48793909674555
+  },
+  {
+    "feature": "BsmtFinType1_GLQ",
+    "mean_abs_shap": 284.2198302432521
+  },
+  {
+    "feature": "BsmtQual_Gd",
+    "mean_abs_shap": 258.30666515594237
+  },
+  {
+    "feature": "BsmtExposure_Gd",
+    "mean_abs_shap": 257.80781749499494
+  },
+  {
+    "feature": "MSZoning_RM",
+    "mean_abs_shap": 248.88207489553406
+  },
+  {
+    "feature": "MSZoning_RL",
+    "mean_abs_shap": 247.49967982032518
+  },
+  {
+    "feature": "ScreenPorch",
+    "mean_abs_shap": 236.91546619045607
+  },
+  {
+    "feature": "ExterQual_TA",
+    "mean_abs_shap": 215.7409152979777
+  },
+  {
+    "feature": "KitchenQual_TA",
+    "mean_abs_shap": 215.39210595300625
+  },
+  {
+    "feature": "KitchenQual_Ex",
+    "mean_abs_shap": 203.5576637886421
+  },
+  {
+    "feature": "ExterQual_Gd",
+    "mean_abs_shap": 164.25593425249244
+  },
+  {
+    "feature": "GarageType_Attchd",
+    "mean_abs_shap": 163.78386185093422
+  },
+  {
+    "feature": "HalfBath",
+    "mean_abs_shap": 158.04912004097883
+  },
+  {
+    "feature": "BsmtFinType1_Unf",
+    "mean_abs_shap": 150.47078992746071
+  },
+  {
+    "feature": "BsmtQual_TA",
+    "mean_abs_shap": 149.85363889910147
+  },
+  {
+    "feature": "MoSold",
+    "mean_abs_shap": 149.70902014105076
+  },
+  {
+    "feature": "FireplaceQu_TA",
+    "mean_abs_shap": 136.8167047766272
+  },
+  {
+    "feature": "KitchenAbvGr",
+    "mean_abs_shap": 135.8975103276276
+  },
+  {
+    "feature": "BedroomAbvGr",
+    "mean_abs_shap": 128.12884675824134
+  },
+  {
+    "feature": "Neighborhood_Crawfor",
+    "mean_abs_shap": 124.21603170714322
+  },
+  {
+    "feature": "HeatingQC_TA",
+    "mean_abs_shap": 122.61192430896376
+  },
+  {
+    "feature": "LandContour_Lvl",
+    "mean_abs_shap": 120.54218566871053
+  },
+  {
+    "feature": "Exterior1st_MetalSd",
+    "mean_abs_shap": 119.05527052309488
+  },
+  {
+    "feature": "YrSold",
+    "mean_abs_shap": 100.53549364584933
+  },
+  {
+    "feature": "ExterQual_Ex",
+    "mean_abs_shap": 97.82937784609133
+  },
+  {
+    "feature": "HeatingQC_Ex",
+    "mean_abs_shap": 95.94520910218873
+  },
+  {
+    "feature": "GarageFinish_RFn",
+    "mean_abs_shap": 94.40346933438937
+  },
+  {
+    "feature": "Foundation_PConc",
+    "mean_abs_shap": 92.82129165580396
+  },
+  {
+    "feature": "GarageFinish_Fin",
+    "mean_abs_shap": 90.40708804530935
+  },
+  {
+    "feature": "Condition1_Norm",
+    "mean_abs_shap": 86.86013361261544
+  },
+  {
+    "feature": "Functional_Typ",
+    "mean_abs_shap": 86.00645861749379
+  },
+  {
+    "feature": "FireplaceQu_Gd",
+    "mean_abs_shap": 83.87952744889051
+  },
+  {
+    "feature": "SaleType_New",
+    "mean_abs_shap": 80.7932592345914
+  },
+  {
+    "feature": "BsmtFinType1_ALQ",
+    "mean_abs_shap": 75.88723134718246
+  },
+  {
+    "feature": "PavedDrive_N",
+    "mean_abs_shap": 75.05006725806815
+  },
+  {
+    "feature": "LotConfig_CulDSac",
+    "mean_abs_shap": 74.66032099818577
+  },
+  {
+    "feature": "Exterior1st_BrkFace",
+    "mean_abs_shap": 70.43399310900847
+  },
+  {
+    "feature": "Neighborhood_NoRidge",
+    "mean_abs_shap": 67.11876643213071
+  },
+  {
+    "feature": "Neighborhood_Somerst",
+    "mean_abs_shap": 66.25442420602666
+  },
+  {
+    "feature": "EnclosedPorch",
+    "mean_abs_shap": 65.82361769663227
+  },
+  {
+    "feature": "LandContour_HLS",
+    "mean_abs_shap": 61.817996229165416
+  },
+  {
+    "feature": "Neighborhood_OldTown",
+    "mean_abs_shap": 60.219528385515204
+  },
+  {
+    "feature": "SaleCondition_Partial",
+    "mean_abs_shap": 59.490775840709915
+  },
+  {
+    "feature": "SaleType_WD",
+    "mean_abs_shap": 59.04650343543604
+  },
+  {
+    "feature": "Exterior2nd_VinylSd",
+    "mean_abs_shap": 55.86172565628084
+  },
+  {
+    "feature": "SaleCondition_Normal",
+    "mean_abs_shap": 54.64769449683208
+  },
+  {
+    "feature": "SaleCondition_Abnorml",
+    "mean_abs_shap": 51.061095322637854
+  },
+  {
+    "feature": "BldgType_1Fam",
+    "mean_abs_shap": 50.31404669534604
+  },
+  {
+    "feature": "LotShape_IR1",
+    "mean_abs_shap": 49.28927834893334
+  },
+  {
+    "feature": "BsmtFinSF2",
+    "mean_abs_shap": 48.875330800397954
+  },
+  {
+    "feature": "Neighborhood_CollgCr",
+    "mean_abs_shap": 47.97757590929298
+  },
+  {
+    "feature": "LandSlope_Gtl",
+    "mean_abs_shap": 45.81852340771626
+  },
+  {
+    "feature": "FireplaceQu_Ex",
+    "mean_abs_shap": 44.45045300911622
+  },
+  {
+    "feature": "LotConfig_Inside",
+    "mean_abs_shap": 43.85831227637856
+  },
+  {
+    "feature": "MasVnrType_BrkFace",
+    "mean_abs_shap": 43.81524213602434
+  },
+  {
+    "feature": "Neighborhood_NAmes",
+    "mean_abs_shap": 43.69627176279284
+  },
+  {
+    "feature": "BsmtExposure_Av",
+    "mean_abs_shap": 43.34669831276175
+  },
+  {
+    "feature": "HeatingQC_Gd",
+    "mean_abs_shap": 43.28382757084269
+  },
+  {
+    "feature": "Exterior2nd_MetalSd",
+    "mean_abs_shap": 42.359326224229044
+  },
+  {
+    "feature": "Exterior1st_VinylSd",
+    "mean_abs_shap": 41.043470972589446
+  },
+  {
+    "feature": "Neighborhood_ClearCr",
+    "mean_abs_shap": 36.689103314868866
+  },
+  {
+    "feature": "PavedDrive_Y",
+    "mean_abs_shap": 36.41394603091661
+  },
+  {
+    "feature": "PoolArea",
+    "mean_abs_shap": 36.38472234141038
+  },
+  {
+    "feature": "Neighborhood_Edwards",
+    "mean_abs_shap": 36.17776911596009
+  },
+  {
+    "feature": "HouseStyle_1Story",
+    "mean_abs_shap": 35.697094831589546
+  },
+  {
+    "feature": "HeatingQC_Fa",
+    "mean_abs_shap": 32.48029489741161
+  },
+  {
+    "feature": "Foundation_BrkTil",
+    "mean_abs_shap": 31.58975479380698
+  },
+  {
+    "feature": "MasVnrType_Stone",
+    "mean_abs_shap": 31.044702661405527
+  },
+  {
+    "feature": "ExterCond_TA",
+    "mean_abs_shap": 30.246432117383414
+  },
+  {
+    "feature": "Neighborhood_NridgHt",
+    "mean_abs_shap": 28.117402240214233
+  },
+  {
+    "feature": "Exterior1st_CemntBd",
+    "mean_abs_shap": 27.723302279819222
+  },
+  {
+    "feature": "Exterior1st_Plywood",
+    "mean_abs_shap": 27.060159712031396
+  },
+  {
+    "feature": "RoofStyle_Gable",
+    "mean_abs_shap": 26.841116884642098
+  },
+  {
+    "feature": "Foundation_CBlock",
+    "mean_abs_shap": 26.68566706020322
+  },
+  {
+    "feature": "ExterCond_Gd",
+    "mean_abs_shap": 26.451697512065888
+  },
+  {
+    "feature": "Exterior2nd_HdBoard",
+    "mean_abs_shap": 25.455152758597407
+  },
+  {
+    "feature": "HouseStyle_2Story",
+    "mean_abs_shap": 25.422513573153783
+  },
+  {
+    "feature": "ExterCond_Fa",
+    "mean_abs_shap": 25.35214951880516
+  },
+  {
+    "feature": "LotConfig_Corner",
+    "mean_abs_shap": 23.945282637383777
+  },
+  {
+    "feature": "Neighborhood_StoneBr",
+    "mean_abs_shap": 23.644936329498687
+  },
+  {
+    "feature": "Alley_Grvl",
+    "mean_abs_shap": 23.43852801652084
+  },
+  {
+    "feature": "Exterior1st_HdBoard",
+    "mean_abs_shap": 23.256729497305496
+  },
+  {
+    "feature": "BsmtFinType1_BLQ",
+    "mean_abs_shap": 23.245500787888236
+  },
+  {
+    "feature": "Condition1_Artery",
+    "mean_abs_shap": 22.75575224623736
+  },
+  {
+    "feature": "Electrical_SBrkr",
+    "mean_abs_shap": 22.188107762621353
+  },
+  {
+    "feature": "RoofStyle_Hip",
+    "mean_abs_shap": 21.142583023053717
+  },
+  {
+    "feature": "BsmtExposure_Mn",
+    "mean_abs_shap": 20.801010761840367
+  },
+  {
+    "feature": "Exterior2nd_Plywood",
+    "mean_abs_shap": 20.387906770974073
+  },
+  {
+    "feature": "Neighborhood_Sawyer",
+    "mean_abs_shap": 20.258785372918
+  },
+  {
+    "feature": "Exterior1st_Wd Sdng",
+    "mean_abs_shap": 19.834565335615125
+  },
+  {
+    "feature": "SaleCondition_Family",
+    "mean_abs_shap": 18.759496546419037
+  },
+  {
+    "feature": "LandContour_Bnk",
+    "mean_abs_shap": 18.633598593026353
+  },
+  {
+    "feature": "Condition1_RRAe",
+    "mean_abs_shap": 18.36524320431143
+  },
+  {
+    "feature": "BsmtCond_TA",
+    "mean_abs_shap": 18.332446663469877
+  },
+  {
+    "feature": "BsmtFinType2_Unf",
+    "mean_abs_shap": 17.75652894816857
+  },
+  {
+    "feature": "RoofStyle_Flat",
+    "mean_abs_shap": 17.323392648568863
+  },
+  {
+    "feature": "BsmtCond_Fa",
+    "mean_abs_shap": 16.853293866562566
+  },
+  {
+    "feature": "GarageType_BuiltIn",
+    "mean_abs_shap": 16.541989011032378
+  },
+  {
+    "feature": "LandSlope_Mod",
+    "mean_abs_shap": 16.257828678795214
+  },
+  {
+    "feature": "Functional_Min2",
+    "mean_abs_shap": 15.452389911924524
+  },
+  {
+    "feature": "3SsnPorch",
+    "mean_abs_shap": 15.335826699001048
+  },
+  {
+    "feature": "LotConfig_FR2",
+    "mean_abs_shap": 14.230850174741605
+  },
+  {
+    "feature": "Condition1_Feedr",
+    "mean_abs_shap": 13.569675037937905
+  },
+  {
+    "feature": "Alley_Pave",
+    "mean_abs_shap": 13.45039225761539
+  },
+  {
+    "feature": "BsmtFinType1_Rec",
+    "mean_abs_shap": 13.331626523558711
+  },
+  {
+    "feature": "Exterior2nd_Wd Sdng",
+    "mean_abs_shap": 13.108580181947667
+  },
+  {
+    "feature": "BsmtHalfBath",
+    "mean_abs_shap": 13.08716160124004
+  },
+  {
+    "feature": "Neighborhood_Timber",
+    "mean_abs_shap": 12.889160514945901
+  },
+  {
+    "feature": "MSZoning_FV",
+    "mean_abs_shap": 12.82750706877291
+  },
+  {
+    "feature": "HouseStyle_1.5Fin",
+    "mean_abs_shap": 12.800587709028248
+  },
+  {
+    "feature": "Fence_GdWo",
+    "mean_abs_shap": 12.620288603628815
+  },
+  {
+    "feature": "BsmtFinType2_ALQ",
+    "mean_abs_shap": 11.989916662466685
+  },
+  {
+    "feature": "Exterior2nd_ImStucc",
+    "mean_abs_shap": 11.41708599748626
+  },
+  {
+    "feature": "Neighborhood_BrkSide",
+    "mean_abs_shap": 11.410577556476696
+  },
+  {
+    "feature": "GarageQual_TA",
+    "mean_abs_shap": 11.281150795406745
+  },
+  {
+    "feature": "BsmtFinType1_LwQ",
+    "mean_abs_shap": 11.123601741128155
+  },
+  {
+    "feature": "BsmtQual_Fa",
+    "mean_abs_shap": 11.087284629833052
+  },
+  {
+    "feature": "Fence_MnPrv",
+    "mean_abs_shap": 11.044811232704284
+  },
+  {
+    "feature": "Functional_Mod",
+    "mean_abs_shap": 10.892402466826384
+  },
+  {
+    "feature": "Exterior2nd_CmentBd",
+    "mean_abs_shap": 10.750666233115929
+  },
+  {
+    "feature": "Neighborhood_NWAmes",
+    "mean_abs_shap": 10.371736700925842
+  },
+  {
+    "feature": "RoofMatl_CompShg",
+    "mean_abs_shap": 10.35644709442799
+  },
+  {
+    "feature": "Fence_GdPrv",
+    "mean_abs_shap": 10.182576204001396
+  },
+  {
+    "feature": "KitchenQual_Fa",
+    "mean_abs_shap": 10.055062982071611
+  },
+  {
+    "feature": "SaleType_COD",
+    "mean_abs_shap": 9.959374550256957
+  },
+  {
+    "feature": "Neighborhood_Mitchel",
+    "mean_abs_shap": 9.921065302260589
+  },
+  {
+    "feature": "Electrical_FuseA",
+    "mean_abs_shap": 9.86961839663857
+  },
+  {
+    "feature": "BsmtFinType2_LwQ",
+    "mean_abs_shap": 9.69544945482946
+  },
+  {
+    "feature": "LandSlope_Sev",
+    "mean_abs_shap": 9.605195096709409
+  },
+  {
+    "feature": "BldgType_Duplex",
+    "mean_abs_shap": 9.412796121503202
+  },
+  {
+    "feature": "HouseStyle_SLvl",
+    "mean_abs_shap": 9.402228433660044
+  },
+  {
+    "feature": "LotShape_IR2",
+    "mean_abs_shap": 9.343023719470688
+  },
+  {
+    "feature": "Neighborhood_Gilbert",
+    "mean_abs_shap": 9.155539174398369
+  },
+  {
+    "feature": "Condition1_PosN",
+    "mean_abs_shap": 9.132650389621482
+  },
+  {
+    "feature": "LandContour_Low",
+    "mean_abs_shap": 8.12468216491862
+  },
+  {
+    "feature": "PavedDrive_P",
+    "mean_abs_shap": 8.04143912662832
+  },
+  {
+    "feature": "Neighborhood_SawyerW",
+    "mean_abs_shap": 7.510703186447233
+  },
+  {
+    "feature": "Heating_GasA",
+    "mean_abs_shap": 7.392835789567553
+  },
+  {
+    "feature": "GarageQual_Fa",
+    "mean_abs_shap": 7.340469969839435
+  },
+  {
+    "feature": "Functional_Min1",
+    "mean_abs_shap": 7.317075816826262
+  },
+  {
+    "feature": "Heating_Grav",
+    "mean_abs_shap": 7.237744243437522
+  },
+  {
+    "feature": "Neighborhood_IDOTRR",
+    "mean_abs_shap": 7.071450671250971
+  },
+  {
+    "feature": "Exterior2nd_BrkFace",
+    "mean_abs_shap": 6.970215256005279
+  },
+  {
+    "feature": "MasVnrType_BrkCmn",
+    "mean_abs_shap": 6.661868364563908
+  },
+  {
+    "feature": "GarageCond_TA",
+    "mean_abs_shap": 6.6185104194011615
+  },
+  {
+    "feature": "Exterior2nd_Wd Shng",
+    "mean_abs_shap": 6.537020215950988
+  },
+  {
+    "feature": "Neighborhood_SWISU",
+    "mean_abs_shap": 5.9311840970128955
+  },
+  {
+    "feature": "Functional_Maj2",
+    "mean_abs_shap": 5.654063222467881
+  },
+  {
+    "feature": "Exterior1st_WdShing",
+    "mean_abs_shap": 5.481434889419378
+  },
+  {
+    "feature": "RoofStyle_Gambrel",
+    "mean_abs_shap": 5.463928017760445
+  },
+  {
+    "feature": "BsmtCond_Gd",
+    "mean_abs_shap": 5.338395171426521
+  },
+  {
+    "feature": "MiscVal",
+    "mean_abs_shap": 5.216296691325575
+  },
+  {
+    "feature": "Neighborhood_Veenker",
+    "mean_abs_shap": 5.151275272928429
+  },
+  {
+    "feature": "Foundation_Slab",
+    "mean_abs_shap": 5.079774547573688
+  },
+  {
+    "feature": "BldgType_TwnhsE",
+    "mean_abs_shap": 5.049444317013416
+  },
+  {
+    "feature": "PoolQC_Gd",
+    "mean_abs_shap": 4.7378786024257025
+  },
+  {
+    "feature": "Exterior1st_BrkComm",
+    "mean_abs_shap": 4.73581981747279
+  },
+  {
+    "feature": "GarageCond_Fa",
+    "mean_abs_shap": 4.670837599513282
+  },
+  {
+    "feature": "GarageType_CarPort",
+    "mean_abs_shap": 4.5098269046655055
+  },
+  {
+    "feature": "LowQualFinSF",
+    "mean_abs_shap": 4.494229643317104
+  },
+  {
+    "feature": "BsmtFinType2_Rec",
+    "mean_abs_shap": 4.372712136609973
+  },
+  {
+    "feature": "Electrical_FuseF",
+    "mean_abs_shap": 4.321025706325253
+  },
+  {
+    "feature": "SaleCondition_Alloca",
+    "mean_abs_shap": 4.302155323760178
+  },
+  {
+    "feature": "HouseStyle_2.5Fin",
+    "mean_abs_shap": 4.210482780895801
+  },
+  {
+    "feature": "Exterior2nd_Brk Cmn",
+    "mean_abs_shap": 4.154791706219687
+  },
+  {
+    "feature": "HouseStyle_2.5Unf",
+    "mean_abs_shap": 4.0660225390587375
+  },
+  {
+    "feature": "Neighborhood_MeadowV",
+    "mean_abs_shap": 3.8024081936733025
+  },
+  {
+    "feature": "LotConfig_FR3",
+    "mean_abs_shap": 3.6654429068495915
+  },
+  {
+    "feature": "Exterior2nd_Stucco",
+    "mean_abs_shap": 3.5948591877612928
+  },
+  {
+    "feature": "Condition2_Norm",
+    "mean_abs_shap": 3.5084191079425624
+  },
+  {
+    "feature": "BsmtFinType2_GLQ",
+    "mean_abs_shap": 3.4401763295515564
+  },
+  {
+    "feature": "BldgType_Twnhs",
+    "mean_abs_shap": 3.2497952153238696
+  },
+  {
+    "feature": "FireplaceQu_Po",
+    "mean_abs_shap": 3.206238332463924
+  },
+  {
+    "feature": "GarageType_Basment",
+    "mean_abs_shap": 3.148152124639596
+  },
+  {
+    "feature": "BldgType_2fmCon",
+    "mean_abs_shap": 3.108669829796854
+  },
+  {
+    "feature": "SaleType_CWD",
+    "mean_abs_shap": 3.0403672268497233
+  },
+  {
+    "feature": "FireplaceQu_Fa",
+    "mean_abs_shap": 2.9452807815982878
+  },
+  {
+    "feature": "PoolQC_Ex",
+    "mean_abs_shap": 2.9184996556700753
+  },
+  {
+    "feature": "MSZoning_RH",
+    "mean_abs_shap": 2.7599600853071746
+  },
+  {
+    "feature": "GarageQual_Gd",
+    "mean_abs_shap": 2.707305092552568
+  },
+  {
+    "feature": "MSZoning_C (all)",
+    "mean_abs_shap": 2.6343585877849436
+  },
+  {
+    "feature": "HouseStyle_SFoyer",
+    "mean_abs_shap": 2.3694823086040806
+  },
+  {
+    "feature": "Exterior2nd_AsbShng",
+    "mean_abs_shap": 2.221806369259209
+  },
+  {
+    "feature": "Exterior1st_Stucco",
+    "mean_abs_shap": 2.1955564409546637
+  },
+  {
+    "feature": "RoofMatl_ClyTile",
+    "mean_abs_shap": 2.1115802981332625
+  },
+  {
+    "feature": "Foundation_Stone",
+    "mean_abs_shap": 1.9422034425558754
+  },
+  {
+    "feature": "Condition1_RRAn",
+    "mean_abs_shap": 1.8786571862732706
+  },
+  {
+    "feature": "Condition2_PosN",
+    "mean_abs_shap": 1.8361561524573817
+  },
+  {
+    "feature": "Heating_GasW",
+    "mean_abs_shap": 1.8170559647876323
+  },
+  {
+    "feature": "Condition1_PosA",
+    "mean_abs_shap": 1.7371853450874637
+  },
+  {
+    "feature": "Exterior1st_AsbShng",
+    "mean_abs_shap": 1.7221173239906804
+  },
+  {
+    "feature": "BsmtFinType2_BLQ",
+    "mean_abs_shap": 1.6524677673576926
+  },
+  {
+    "feature": "Functional_Sev",
+    "mean_abs_shap": 1.618579595128542
+  },
+  {
+    "feature": "ExterQual_Fa",
+    "mean_abs_shap": 1.5143445403409528
+  },
+  {
+    "feature": "SaleType_ConLD",
+    "mean_abs_shap": 1.4352881315577994
+  },
+  {
+    "feature": "GarageCond_Gd",
+    "mean_abs_shap": 1.4077048373363856
+  },
+  {
+    "feature": "RoofMatl_Tar&Grv",
+    "mean_abs_shap": 1.3896903434785093
+  },
+  {
+    "feature": "LotShape_IR3",
+    "mean_abs_shap": 1.3695452056455297
+  },
+  {
+    "feature": "GarageType_2Types",
+    "mean_abs_shap": 1.3455160621982971
+  },
+  {
+    "feature": "Neighborhood_Blmngtn",
+    "mean_abs_shap": 1.2236492439628621
+  },
+  {
+    "feature": "Exterior2nd_Other",
+    "mean_abs_shap": 1.0998723149876435
+  },
+  {
+    "feature": "Street_Grvl",
+    "mean_abs_shap": 1.073162777403044
+  },
+  {
+    "feature": "Exterior1st_AsphShn",
+    "mean_abs_shap": 1.0437689476796825
+  },
+  {
+    "feature": "Functional_Maj1",
+    "mean_abs_shap": 0.9995525857157759
+  },
+  {
+    "feature": "Exterior2nd_AsphShn",
+    "mean_abs_shap": 0.9939759669254461
+  },
+  {
+    "feature": "HouseStyle_1.5Unf",
+    "mean_abs_shap": 0.9806509055620305
+  },
+  {
+    "feature": "Heating_OthW",
+    "mean_abs_shap": 0.9396937809867844
+  },
+  {
+    "feature": "RoofMatl_WdShngl",
+    "mean_abs_shap": 0.8987108344418564
+  },
+  {
+    "feature": "Street_Pave",
+    "mean_abs_shap": 0.8390853267593673
+  },
+  {
+    "feature": "Neighborhood_NPkVill",
+    "mean_abs_shap": 0.8294201175736521
+  },
+  {
+    "feature": "Electrical_FuseP",
+    "mean_abs_shap": 0.7548692846306487
+  },
+  {
+    "feature": "Exterior2nd_Stone",
+    "mean_abs_shap": 0.7347719493694121
+  },
+  {
+    "feature": "Foundation_Wood",
+    "mean_abs_shap": 0.7095488804757486
+  },
+  {
+    "feature": "SaleType_Con",
+    "mean_abs_shap": 0.707369772065682
+  },
+  {
+    "feature": "RoofMatl_Metal",
+    "mean_abs_shap": 0.6247803545645332
+  },
+  {
+    "feature": "PoolQC_Fa",
+    "mean_abs_shap": 0.5741633042558305
+  },
+  {
+    "feature": "Exterior1st_Stone",
+    "mean_abs_shap": 0.5722309083836464
+  },
+  {
+    "feature": "GarageCond_Po",
+    "mean_abs_shap": 0.5572945551029639
+  },
+  {
+    "feature": "Fence_MnWw",
+    "mean_abs_shap": 0.5249296588107156
+  },
+  {
+    "feature": "SaleType_ConLI",
+    "mean_abs_shap": 0.5029768306249083
+  },
+  {
+    "feature": "GarageQual_Ex",
+    "mean_abs_shap": 0.4961835784453173
+  },
+  {
+    "feature": "Neighborhood_BrDale",
+    "mean_abs_shap": 0.44940439708054575
+  },
+  {
+    "feature": "SaleCondition_AdjLand",
+    "mean_abs_shap": 0.4342414205354391
+  },
+  {
+    "feature": "Neighborhood_Blueste",
+    "mean_abs_shap": 0.40849957801629294
+  },
+  {
+    "feature": "Heating_Wall",
+    "mean_abs_shap": 0.3865387076632675
+  },
+  {
+    "feature": "RoofMatl_WdShake",
+    "mean_abs_shap": 0.3730227616784959
+  },
+  {
+    "feature": "Heating_Floor",
+    "mean_abs_shap": 0.35254327382243245
+  },
+  {
+    "feature": "RoofStyle_Mansard",
+    "mean_abs_shap": 0.29725163346151395
+  },
+  {
+    "feature": "Condition1_RRNn",
+    "mean_abs_shap": 0.28426550229656966
+  },
+  {
+    "feature": "MiscFeature_Othr",
+    "mean_abs_shap": 0.2838548772958659
+  },
+  {
+    "feature": "MiscFeature_Shed",
+    "mean_abs_shap": 0.2803347248351442
+  },
+  {
+    "feature": "BsmtCond_Po",
+    "mean_abs_shap": 0.277716732296651
+  },
+  {
+    "feature": "Exterior2nd_CBlock",
+    "mean_abs_shap": 0.21319967152516028
+  },
+  {
+    "feature": "MiscFeature_TenC",
+    "mean_abs_shap": 0.20709333904747626
+  },
+  {
+    "feature": "Condition2_RRAn",
+    "mean_abs_shap": 0.1891929811579379
+  },
+  {
+    "feature": "Condition1_RRNe",
+    "mean_abs_shap": 0.17170384453947168
+  },
+  {
+    "feature": "SaleType_ConLw",
+    "mean_abs_shap": 0.16896716745394322
+  },
+  {
+    "feature": "RoofStyle_Shed",
+    "mean_abs_shap": 0.15575025002225368
+  },
+  {
+    "feature": "ExterCond_Ex",
+    "mean_abs_shap": 0.1461741656396362
+  },
+  {
+    "feature": "RoofMatl_Roll",
+    "mean_abs_shap": 0.10954424558254941
+  },
+  {
+    "feature": "SaleType_Oth",
+    "mean_abs_shap": 0.10644205768178314
+  },
+  {
+    "feature": "Exterior1st_CBlock",
+    "mean_abs_shap": 0.10592430299016176
+  },
+  {
+    "feature": "Condition2_Feedr",
+    "mean_abs_shap": 0.10195630589823786
+  },
+  {
+    "feature": "ExterCond_Po",
+    "mean_abs_shap": 0.09117190715188082
+  },
+  {
+    "feature": "Condition2_RRAe",
+    "mean_abs_shap": 0.0760826202734114
+  },
+  {
+    "feature": "MiscFeature_Gar2",
+    "mean_abs_shap": 0.05692602771622555
+  },
+  {
+    "feature": "GarageQual_Po",
+    "mean_abs_shap": 0.05646961569220671
+  },
+  {
+    "feature": "GarageCond_Ex",
+    "mean_abs_shap": 0.029142506702772287
+  },
+  {
+    "feature": "Utilities_AllPub",
+    "mean_abs_shap": 0.01704936682073803
+  },
+  {
+    "feature": "Condition2_Artery",
+    "mean_abs_shap": 0.0065159992555276994
+  },
+  {
+    "feature": "HeatingQC_Po",
+    "mean_abs_shap": 0.0017049488713983929
+  },
+  {
+    "feature": "Utilities_NoSeWa",
+    "mean_abs_shap": 0.0
+  }
+]
