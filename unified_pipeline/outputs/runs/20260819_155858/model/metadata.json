@@ -1,0 +1,49 @@
+{
+  "version": "1.0",
+  "data_type": "image",
+  "framework": "torch",
+  "task": "detection",
+  "model_type": "yolo11",
+  "variant": "yolov11n",
+  "weights": "best.pt",
+  "nc": 2,
+  "names": [
+    "Cat",
+    "Dog"
+  ],
+  "metrics": {
+    "mAP50": 0.7979550642594121,
+    "mAP50-95": 0.6025464717280944,
+    "precision": 0.9256419104462252,
+    "recall": 0.8023003972758911,
+    "per_class": {
+      "Cat": {
+        "AP50": 0.895,
+        "AP50-95": 0.7158143732274167
+      },
+      "Dog": {
+        "AP50": 0.7009101285188242,
+        "AP50-95": 0.48927857022877214
+      }
+    }
+  },
+  "train": {
+    "epochs": 30,
+    "imgsz": 640,
+    "batch": 16,
+    "workers": 2,
+    "optimizer": "auto",
+    "patience": 15,
+    "seed": 42,
+    "conf": 0.25,
+    "iou": 0.5,
+    "predict_demo": 4
+  },
+  "device": "0",
+  "dataset_dir": "unified_pipeline/data/CatsDogs_YOLO11",
+  "source": "unified_pipeline/data/CatsDogs_YOLO11",
+  "created_at": "2026-08-19T21:01:03.974660",
+  "model_path": "best.pt",
+  "identify": "image_yolo_detection",
+  "run_seconds_train": 121.2
+}

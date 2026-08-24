@@ -1,0 +1,12 @@
+[
+  {
+    "image": "C:\\Users\\I13310\\Desktop\\Proyecto\\unified_pipeline\\data\\CatsDogs_YOLO11\\test\\images\\cat_111_jpg.rf.XSCmTLQPKBr7ZNZzXhm0.jpg",
+    "detections": [],
+    "annotated": "C:\\Users\\I13310\\Desktop\\Proyecto\\unified_pipeline\\outputs\\runs\\20260819_152641\\predictions\\cat_111_jpg.rf.XSCmTLQPKBr7ZNZzXhm0_pred.jpg"
+  },
+  {
+    "image": "C:\\Users\\I13310\\Desktop\\Proyecto\\unified_pipeline\\data\\CatsDogs_YOLO11\\test\\images\\cat_14_jpg.rf.2aEiCGe3AlOrkQg6hHz8.jpg",
+    "detections": [],
+    "annotated": "C:\\Users\\I13310\\Desktop\\Proyecto\\unified_pipeline\\outputs\\runs\\20260819_152641\\predictions\\cat_14_jpg.rf.2aEiCGe3AlOrkQg6hHz8_pred.jpg"
+  }
+]
