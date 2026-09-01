@@ -1,0 +1,197 @@
+{
+  "num_samples": 500,
+  "instances": [
+    {
+      "image": "C:\\Users\\Fabrizio\\Desktop\\CIAR\\unified_pipeline\\data\\CatsDogs_YOLO11\\test\\images\\cat_111_jpg.rf.XSCmTLQPKBr7ZNZzXhm0.jpg",
+      "top_label": 0,
+      "top_label_name": "Cat",
+      "png": "lime_image_cat_111_jpg.rf.XSCmTLQPKBr7ZNZzXhm0.png",
+      "top_pixels_weights": [
+        {
+          "superpixel": 153,
+          "weight": 0.0071
+        },
+        {
+          "superpixel": 716,
+          "weight": 0.00699
+        },
+        {
+          "superpixel": 109,
+          "weight": 0.00668
+        },
+        {
+          "superpixel": 904,
+          "weight": 0.00641
+        },
+        {
+          "superpixel": 1026,
+          "weight": 0.00639
+        },
+        {
+          "superpixel": 489,
+          "weight": 0.00624
+        },
+        {
+          "superpixel": 375,
+          "weight": 0.00621
+        },
+        {
+          "superpixel": 846,
+          "weight": 0.00604
+        },
+        {
+          "superpixel": 570,
+          "weight": 0.00603
+        },
+        {
+          "superpixel": 25,
+          "weight": 0.00595
+        }
+      ]
+    },
+    {
+      "image": "C:\\Users\\Fabrizio\\Desktop\\CIAR\\unified_pipeline\\data\\CatsDogs_YOLO11\\test\\images\\cat_14_jpg.rf.2aEiCGe3AlOrkQg6hHz8.jpg",
+      "top_label": 0,
+      "top_label_name": "Cat",
+      "png": "lime_image_cat_14_jpg.rf.2aEiCGe3AlOrkQg6hHz8.png",
+      "top_pixels_weights": [
+        {
+          "superpixel": 136,
+          "weight": 0.15498
+        },
+        {
+          "superpixel": 39,
+          "weight": 0.10098
+        },
+        {
+          "superpixel": 46,
+          "weight": 0.09931
+        },
+        {
+          "superpixel": 164,
+          "weight": 0.09712
+        },
+        {
+          "superpixel": 42,
+          "weight": 0.08667
+        },
+        {
+          "superpixel": 89,
+          "weight": 0.08441
+        },
+        {
+          "superpixel": 227,
+          "weight": 0.08341
+        },
+        {
+          "superpixel": 215,
+          "weight": 0.08182
+        },
+        {
+          "superpixel": 60,
+          "weight": 0.07269
+        },
+        {
+          "superpixel": 9,
+          "weight": 0.07107
+        }
+      ]
+    },
+    {
+      "image": "C:\\Users\\Fabrizio\\Desktop\\CIAR\\unified_pipeline\\data\\CatsDogs_YOLO11\\test\\images\\cat_170_jpg.rf.rgEfrCyIhPrJGznb5SJ8.jpg",
+      "top_label": 0,
+      "top_label_name": "Cat",
+      "png": "lime_image_cat_170_jpg.rf.rgEfrCyIhPrJGznb5SJ8.png",
+      "top_pixels_weights": [
+        {
+          "superpixel": 991,
+          "weight": 0.00672
+        },
+        {
+          "superpixel": 496,
+          "weight": 0.00593
+        },
+        {
+          "superpixel": 420,
+          "weight": 0.00586
+        },
+        {
+          "superpixel": 680,
+          "weight": 0.0052
+        },
+        {
+          "superpixel": 954,
+          "weight": 0.00494
+        },
+        {
+          "superpixel": 130,
+          "weight": 0.00474
+        },
+        {
+          "superpixel": 662,
+          "weight": 0.00468
+        },
+        {
+          "superpixel": 1099,
+          "weight": 0.00462
+        },
+        {
+          "superpixel": 667,
+          "weight": 0.00458
+        },
+        {
+          "superpixel": 207,
+          "weight": 0.00456
+        }
+      ]
+    },
+    {
+      "image": "C:\\Users\\Fabrizio\\Desktop\\CIAR\\unified_pipeline\\data\\CatsDogs_YOLO11\\test\\images\\cat_208_jpg.rf.lXeTKCfgfVEp2CUm37CX.jpg",
+      "top_label": 0,
+      "top_label_name": "Cat",
+      "png": "lime_image_cat_208_jpg.rf.lXeTKCfgfVEp2CUm37CX.png",
+      "top_pixels_weights": [
+        {
+          "superpixel": 117,
+          "weight": 0.02269
+        },
+        {
+          "superpixel": 87,
+          "weight": 0.02163
+        },
+        {
+          "superpixel": 18,
+          "weight": 0.01881
+        },
+        {
+          "superpixel": 209,
+          "weight": 0.01852
+        },
+        {
+          "superpixel": 74,
+          "weight": 0.01818
+        },
+        {
+          "superpixel": 60,
+          "weight": 0.01801
+        },
+        {
+          "superpixel": 206,
+          "weight": 0.01709
+        },
+        {
+          "superpixel": 36,
+          "weight": 0.01689
+        },
+        {
+          "superpixel": 95,
+          "weight": 0.01642
+        },
+        {
+          "superpixel": 38,
+          "weight": 0.01601
+        }
+      ]
+    }
+  ]
+}

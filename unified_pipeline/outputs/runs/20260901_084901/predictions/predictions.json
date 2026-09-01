@@ -1,0 +1,58 @@
+[
+  {
+    "image": "C:\\Users\\Fabrizio\\Desktop\\CIAR\\unified_pipeline\\data\\CatsDogs_YOLO11\\test\\images\\cat_111_jpg.rf.XSCmTLQPKBr7ZNZzXhm0.jpg",
+    "detections": [],
+    "annotated": "C:\\Users\\Fabrizio\\Desktop\\CIAR\\unified_pipeline\\outputs\\runs\\20260901_084901\\predictions\\cat_111_jpg.rf.XSCmTLQPKBr7ZNZzXhm0_pred.jpg"
+  },
+  {
+    "image": "C:\\Users\\Fabrizio\\Desktop\\CIAR\\unified_pipeline\\data\\CatsDogs_YOLO11\\test\\images\\cat_14_jpg.rf.2aEiCGe3AlOrkQg6hHz8.jpg",
+    "detections": [
+      {
+        "class": 0,
+        "class_name": "Cat",
+        "confidence": 0.9356,
+        "bbox_xyxy": [
+          324.5,
+          7.9,
+          670.0,
+          351.8
+        ]
+      }
+    ],
+    "annotated": "C:\\Users\\Fabrizio\\Desktop\\CIAR\\unified_pipeline\\outputs\\runs\\20260901_084901\\predictions\\cat_14_jpg.rf.2aEiCGe3AlOrkQg6hHz8_pred.jpg"
+  },
+  {
+    "image": "C:\\Users\\Fabrizio\\Desktop\\CIAR\\unified_pipeline\\data\\CatsDogs_YOLO11\\test\\images\\cat_170_jpg.rf.rgEfrCyIhPrJGznb5SJ8.jpg",
+    "detections": [
+      {
+        "class": 0,
+        "class_name": "Cat",
+        "confidence": 0.9185,
+        "bbox_xyxy": [
+          305.3,
+          37.7,
+          966.4,
+          703.1
+        ]
+      }
+    ],
+    "annotated": "C:\\Users\\Fabrizio\\Desktop\\CIAR\\unified_pipeline\\outputs\\runs\\20260901_084901\\predictions\\cat_170_jpg.rf.rgEfrCyIhPrJGznb5SJ8_pred.jpg"
+  },
+  {
+    "image": "C:\\Users\\Fabrizio\\Desktop\\CIAR\\unified_pipeline\\data\\CatsDogs_YOLO11\\test\\images\\cat_208_jpg.rf.lXeTKCfgfVEp2CUm37CX.jpg",
+    "detections": [
+      {
+        "class": 0,
+        "class_name": "Cat",
+        "confidence": 0.9007,
+        "bbox_xyxy": [
+          39.5,
+          5.9,
+          246.1,
+          217.3
+        ]
+      }
+    ],
+    "annotated": "C:\\Users\\Fabrizio\\Desktop\\CIAR\\unified_pipeline\\outputs\\runs\\20260901_084901\\predictions\\cat_208_jpg.rf.lXeTKCfgfVEp2CUm37CX_pred.jpg"
+  }
+]

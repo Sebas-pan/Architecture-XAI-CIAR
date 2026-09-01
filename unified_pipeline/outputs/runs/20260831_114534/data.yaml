@@ -1,0 +1,9 @@
+names:
+- Cat
+- Dog
+nc: 2
+path: C:\Users\Fabrizio\Desktop\CIAR\unified_pipeline\data\CatsDogs_YOLO11
+test: C:\Users\Fabrizio\Desktop\CIAR\unified_pipeline\data\CatsDogs_YOLO11\test\images
+train: C:\Users\Fabrizio\Desktop\CIAR\unified_pipeline\data\CatsDogs_YOLO11\train\images
+val: C:\Users\Fabrizio\Desktop\CIAR\unified_pipeline\data\CatsDogs_YOLO11\valid\images
+valid: C:\Users\Fabrizio\Desktop\CIAR\unified_pipeline\data\CatsDogs_YOLO11\valid\images
